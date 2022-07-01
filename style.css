@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    
+}
+body{
+    overflow: hidden;
+}
+.containor{
+   
+    height: 100vh;
+    background: url(99.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.nav ul{
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    display: flex;
+    margin-right: 45px;
+  
+    
+
+    
+    
+}
+.nav ul li{
+    padding: 0 30px;
+    margin-top: 25px;
+}
+.icon{
+    display: flex;
+    width: 10px;
+    padding-bottom: 250px;
+}
+.hr{
+    margin: 20px 0 ;
+    width: 1200px; 
+    margin-left: 69px;
+    
+}
+.write{
+    margin: 20px 50px ;
+    
+}
+.write h5{
+    margin-left: 24px;
+}
+.write h6 {
+    margin-top: 15px ;
+    margin-left: 10px;
+} 
+.montag{
+    
+    opacity: 85%;
+    
+     height: 80px;
+     margin: 150px 50px ;
+     width: 200px;
+     text-align: center;
+     width: 200px;
+     height: 300px;
+    
+    
+
+    
+}
+.montag hr{
+  background-image: linear-gradient(5deg,black,transparent);
+  height: 0.5px;
+  box-shadow: 1px 1px  2px; 
+  opacity: 20%;
+  
+  width: 100px; 
+  margin-left: 50px;
+  margin-bottom: 2px;
+  
+  
+  
+}
+.circele{
+  color:black;
+  margin: -670px 300px;
+  width: 35px;
+  height: 35px;
+  background-color:blueviolet;
+  border-radius: 500px;
+}
+.circele h4 {
+    padding: 5px 5px;
+}
+.ckachat{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin: -15px 50px;
+}
+.ckachat h6{
+    position: absolute;
+
+}
+.line hr {
+    width: 130px;
+    border-style: dashed;
+   margin-top: -180px;
+   margin-left: 40px;
+}
+
+.itvet h5{
+    color: rgba(50, 3, 6, 0.542);
+    margin-left: 700px;
+    margin-top: -27px;
+}
+.onlin h6 {
+   
+    margin-left: 766px;
+    margin-top: -23px;
+
+}
+
+
+.icon{
+    margin: 6px 730px;
+    justify-content: center;
+    
+   
+    
+    
+}
+.week{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: -400px 860px;
+ 
+ 
+    
+}
+.week h6{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    font-size: 15px;
+    background-color: rgb(240, 221, 221);
+    text-align: center;
+    border-radius: 50%;
+   
+  
+}
+.week h4 {
+   
+    width: 120px;
+    margin: 100px 30px;
+    background-color: rgb(228, 211, 211);
+    text-align: center;
+    border-radius: 50%;
+
+}
+.week p{
+    margin: -90px 50px;
+    color: rgb(28, 15, 112);
+    background-color: rgb(189, 186, 202);
+    width: 100px;
+    text-align: center;
+    border-radius: 50%;
+}
+.tiomen {
+    margin: 500px 50px;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    font-size: 35px;
+    
+    
+}
+.tiomen p {
+    position: absolute;
+    top: -90px;
+    left: -70px;  
+   
+}
+.tiomen h5 {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 5px;
+
+} 
+.border1 {
+    position:relative;
+    
+    box-sizing: border-box;
+    background-color: rgb(199, 85, 85);
+    width: 250px;
+    height: 60px;
+    margin-top: -700px;
+    border: none;
+    border-radius: 50px;
+    
+
+}
+.border1:hover{
+    opacity: 0.8;
+}
+
+
+
+.border1 p {
+    position: absolute;
+    text-align: center;
+    padding-top: 10px;
+    color: antiquewhite;
+    padding-left: 50px;
+    
+    
+}
+.border2 {
+    position:relative;
+    
+    box-sizing: border-box;
+    background-color: red;
+    width: 250px;
+    height: 60px;
+    margin-top: -63px;
+    margin-left: 300px;
+    border: none;
+    border-radius: 50px;
+
+
+}
+.border2:hover{
+    opacity: 0.8;
+}
+.border2 p {
+    position: absolute;
+    text-align: center;
+    padding-top: 10px;
+    padding-left:60px;
+    color: antiquewhite;
+    
+}
+ .parograph p {
+    width: 300px;
+    height: 300px;
+    color: black;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+@media screen and (max-width: 400px){
+    .nav{
+        display: block;
+    }
+    (
+}
+@media screen and (max-width: 922px) {
+    .nav {
+        display: block;
+    }
+    
+}
+
+
+
+ 
+
+    
